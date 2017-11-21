@@ -2193,6 +2193,7 @@ incloak.com
 incomeliberation.com
 increas.eu
 increase-marketing.com
+increaserev.com
 indeterman.com
 indexww.com
 indiabanner.com
@@ -3271,6 +3272,8 @@ pussl10.com
 pussl11.com
 pussl13.com
 pussl28.com
+pussl30.com
+pussl37.com
 pussl4.com
 putrr2.com
 putrr3.com
@@ -7488,10 +7491,14 @@ zhinkichi.info
 voodoo.com
 rcdn.pro
 greencuttlefish.com
+cash-website.ru
+s1vesta.com
+hkeig.com
+nnvkh.com
+l0b.ru
 frzaj.com
 ncbqi.com
 gomtdatacom.xyz
-trustjs.net
 dxracers.accountant
 iygac.com
 auaop.com
@@ -11002,6 +11009,8 @@ webmine.cz
 jscdndel.com
 rocks.io
 party-vqgdyvoycc.now.sh
+piguiqproxy.com
+be2anywhere.com
 kzqjwdxxussshe.net
 pussl2.com
 4th3d48.com
@@ -11667,6 +11676,7 @@ dr3k6qonw2kee.cloudfront.net
 dviixeyykyqjv.cloudfront.net
 js.bulkhentai.com
 script.hqpass.com
+adsblok.com
 ad.reklamport.com
 kalitereklam.com
 bilgibahis.com
@@ -12324,6 +12334,8 @@ n152adserv.com
 rg.yottos.com
 weboohost.com
 p.d.nn0e.com
+userreplay.net
+smartlook.com
 api.exc.mob.com
 honeybadger.io
 adclicks.io
@@ -15518,6 +15530,11 @@ wateryvan.com
 wirecomic.com
 xovq5nemr.com
 zbwp6ghm.com
+trackingapi.kaufda.de
+tk.meinprospekt.de
+tk.kaufda.de
+trackingapi.meinprospekt.de
+d20duyjzb7cuoc.cloudfront.net
 ga.clearbit.com
 hits.dealer.com
 clicks.dealer.com
