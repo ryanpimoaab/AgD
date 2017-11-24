@@ -2913,6 +2913,7 @@ omni-ads.com
 omnitagjs.com
 onad.eu
 onads.com
+onagida.info
 onclasrv.com
 onclickads.net
 onclickmax.com
@@ -7491,6 +7492,8 @@ zhinkichi.info
 voodoo.com
 rcdn.pro
 greencuttlefish.com
+dunyavid.net
+elevoy.ru
 cash-website.ru
 s1vesta.com
 hkeig.com
@@ -11009,6 +11012,7 @@ webmine.cz
 jscdndel.com
 rocks.io
 party-vqgdyvoycc.now.sh
+wp-monero-miner.de
 be2anywhere.com
 kzqjwdxxussshe.net
 pussl2.com
@@ -15530,6 +15534,7 @@ wateryvan.com
 wirecomic.com
 xovq5nemr.com
 zbwp6ghm.com
+e.reddit.com
 trackingapi.kaufda.de
 tk.meinprospekt.de
 tk.kaufda.de
