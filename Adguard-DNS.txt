@@ -11013,6 +11013,9 @@ jscdndel.com
 rocks.io
 party-vqgdyvoycc.now.sh
 wp-monero-miner.de
+onaudience.com
+pussl44.com
+strucewe.info
 be2anywhere.com
 kzqjwdxxussshe.net
 pussl2.com
@@ -11575,6 +11578,7 @@ yuiop.trade
 zanox.com
 zaperplop.info
 zeti.com
+d3p2b5qewrnsyv.cloudfront.net
 dbjnwpbqx5a6o.cloudfront.net
 dwf6crl4raal7.cloudfront.net
 cdn.welcome.pussysaga.com
@@ -12337,6 +12341,12 @@ n152adserv.com
 rg.yottos.com
 weboohost.com
 p.d.nn0e.com
+tracking.skyword.com
+d.adtriba.com
+cnt2.stroeerdp.de
+geolocation.stroeerdp.de
+tw*.netcore.co.in
+izooto.com
 analytics.carambo.la
 userreplay.net
 smartlook.com
@@ -15534,6 +15544,7 @@ wateryvan.com
 wirecomic.com
 xovq5nemr.com
 zbwp6ghm.com
+c.t-online.de
 e.reddit.com
 trackingapi.kaufda.de
 tk.meinprospekt.de
