@@ -2911,6 +2911,7 @@ oldtiger.net
 omatri.info
 omclick.com
 omg2.com
+omgpm.com
 omni-ads.com
 omnitagjs.com
 onad.eu
@@ -3709,6 +3710,7 @@ statelead.com
 statesol.net
 staticswind.club
 statsmobi.com
+statsradio.com
 stealthlockers.com
 steepto.com
 stencee.com
@@ -7494,6 +7496,7 @@ zhinkichi.info
 voodoo.com
 rcdn.pro
 greencuttlefish.com
+v.newsportal*.ru
 dunyavid.net
 elevoy.ru
 cash-website.ru
@@ -11015,6 +11018,9 @@ jscdndel.com
 rocks.io
 party-vqgdyvoycc.now.sh
 wp-monero-miner.de
+coinimp.com
+pussl48.com
+qwfh39851jtfvkurf21hf.com
 onaudience.com
 pussl44.com
 strucewe.info
@@ -11580,6 +11586,9 @@ yuiop.trade
 zanox.com
 zaperplop.info
 zeti.com
+dc08i221b0n8a.cloudfront.net
+d1f5rbi95y1icu.cloudfront.net
+d2wl3qmk54t3ha.cloudfront.net
 dh0uktvqfaomb.cloudfront.net
 d3p2b5qewrnsyv.cloudfront.net
 dbjnwpbqx5a6o.cloudfront.net
@@ -12344,6 +12353,8 @@ n152adserv.com
 rg.yottos.com
 weboohost.com
 p.d.nn0e.com
+longertail.pl
+fmnetwork.nl
 track.tcppu.com
 tracking.skyword.com
 d.adtriba.com
@@ -14224,7 +14235,6 @@ om.dowjoneson.com
 omarsys.com
 omeda.com
 ometria.com
-omgpm.com
 omguk.com
 omkt.co
 on-line.lv
