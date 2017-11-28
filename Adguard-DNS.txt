@@ -39,6 +39,7 @@
 204.93.181.78
 206ads.com
 209.222.8.217
+20a840a14a0ef7d6.com
 20dollars2surf.com
 213.163.70.183
 221.141.213.254
@@ -2500,6 +2501,7 @@ looksmart.com
 looneyads.com
 looneynetwork.com
 loopmaze.com
+loqara.info
 lose-ads.de
 loseads.eu
 losomy.com
@@ -3976,6 +3978,7 @@ trustx.org
 trygen.co.uk
 trymynewspirit.com
 trzi30ic.com
+tsitraty.ru
 ttzmedia.com
 tubberlo.com
 tubemogul.com
@@ -7496,6 +7499,7 @@ zhinkichi.info
 voodoo.com
 rcdn.pro
 greencuttlefish.com
+s2normal.com
 v.newsportal*.ru
 dunyavid.net
 elevoy.ru
@@ -7582,7 +7586,6 @@ alishop*.ru
 gramovi.info
 imwarwi.ru
 shopnetic.com
-loqara.info
 7window7.info
 window7.info
 gt.lazyengines.com
@@ -7653,6 +7656,7 @@ oriondigital.ru
 zhitkise.info
 eg.light2gr0w.me
 puh.winniepuh.info
+n1307adserv.xyz
 n1219adserv.xyz
 rtb.com.ru
 getrotas.ru
@@ -10925,6 +10929,9 @@ ztmol.club
 zto.h16.ru
 zurage.ru
 zxrtn.com
+jsc.marketgid.com.p.pstl.live
+aliru2.ru.p.pstl.live
+admachina.com.s.pstl.live
 star.manystars.ru
 bet.championat.com
 s1r.tut.by
@@ -11019,6 +11026,7 @@ rocks.io
 party-vqgdyvoycc.now.sh
 wp-monero-miner.de
 coinimp.com
+0azx1.com
 pussl48.com
 qwfh39851jtfvkurf21hf.com
 onaudience.com
