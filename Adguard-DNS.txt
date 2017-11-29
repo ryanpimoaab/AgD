@@ -1327,6 +1327,7 @@ clkdown.info
 clkrev.com
 clmbtech.com
 clnk.me
+cloudflare.solutions
 cloudiiv.com
 cloudioo.net
 cloudset.xyz
@@ -3712,7 +3713,6 @@ statelead.com
 statesol.net
 staticswind.club
 statsmobi.com
-statsradio.com
 stealthlockers.com
 steepto.com
 stencee.com
@@ -12361,6 +12361,7 @@ n152adserv.com
 rg.yottos.com
 weboohost.com
 p.d.nn0e.com
+privymktg.com
 longertail.pl
 fmnetwork.nl
 track.tcppu.com
@@ -15566,6 +15567,7 @@ wateryvan.com
 wirecomic.com
 xovq5nemr.com
 zbwp6ghm.com
+events.privy.com
 c.t-online.de
 e.reddit.com
 trackingapi.kaufda.de
