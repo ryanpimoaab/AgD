@@ -649,6 +649,8 @@ adverserve.net
 advertarium.com.ua
 advertbox.us
 adverteerdirect.nl
+advertica-cdn.com
+advertica.ae
 adverticum.net
 advertise.com
 advertiseforfree.co.za
@@ -728,6 +730,7 @@ affbot7.com
 affbot8.com
 affbuzzads.com
 affec.tv
+affili.st
 affiliate-b.com
 affiliate-gate.com
 affiliate-robot.com
@@ -2875,6 +2878,7 @@ nullenabler.com
 numberium.com
 numbers.md
 numberthreebear.com
+nurno.com
 nuseek.com
 nvadn.com
 nvero.net
@@ -4319,6 +4323,10 @@ yjxuda0oi.com
 yldbt.com
 yldmgrimg.net
 yllix.com
+ylx-1.com
+ylx-2.com
+ylx-3.com
+ylx-4.com
 ymads.com
 yoc-adserver.com
 yottacash.com
@@ -11568,6 +11576,8 @@ theblackdeath.ru
 tiz.miladynews.ru
 tizer.rupornophoto.com
 ts2.hockey-talks.com
+salamaleyum.com
+ogrid.org
 papoto.com
 afminer.com
 azvjudwr.info
@@ -11744,8 +11754,6 @@ jeanclementcom.us
 clksite.com
 jsc.adskeeper.co.uk
 misosoup.io
-nurno.com
-advertica-cdn.com
 torabri.com
 cdn.ywxi.net
 apploading.mobi
@@ -12141,7 +12149,6 @@ www.fuze-hill*.xyz
 www.fuze-sea*.xyz
 xpostx.com
 yesadvertising.com
-ylx-4.com
 yuiop.trade
 zanox.com
 zaperplop.info
@@ -12912,6 +12919,7 @@ n152adserv.com
 rg.yottos.com
 weboohost.com
 p.d.nn0e.com
+speedcurve.com
 auth.bz
 privymktg.com
 longertail.pl
@@ -16017,6 +16025,7 @@ zowary.com
 zqtk.net
 zroitracker.com
 functionalclam.com
+sixscissors.com
 2znp09oa.com
 4jnzhl0d0.com
 6ldu6qa.com
@@ -16119,6 +16128,9 @@ wateryvan.com
 wirecomic.com
 xovq5nemr.com
 zbwp6ghm.com
+mormont.gamer-network.net
+cpxl.golem.de
+collect-test.arabam.com
 events.privy.com
 c.t-online.de
 e.reddit.com
