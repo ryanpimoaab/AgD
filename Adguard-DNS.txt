@@ -376,6 +376,7 @@
 46.165.197.231
 46.182.85.201
 46.246.120.230
+46779ff4.net
 468.vologdainfo.ru
 46b77243fb11e8b5.com
 4702fb341ddf276d.com
@@ -509,6 +510,7 @@
 6bd9a2ea1a1801e55.com
 6c37f8a12dede103bf7.com
 6d25c5a1bb9e821f3b7.com
+6dfggjbgt.com
 6e2f1d2ae033.com
 6ea56485aed0c.com
 6fbcee81318.com
@@ -1371,6 +1373,7 @@ adnetwork.vn
 adnetworkme.com
 adnetworkperformance.com
 adnety.com
+adneutralads.com
 adnexio.com
 adnext.fr
 adnext.org
@@ -3162,6 +3165,7 @@ bitcoset.com
 bitfalcon.tv
 bitmedia.io
 bitmedianetwork.com
+bitonclick.com
 bitrix.info
 bittads.com
 bitx.tv
@@ -3745,6 +3749,7 @@ cdnads.com
 cdnapi.net
 cdnload.top
 cdnmedia.xyz
+cdnquality.com
 cdnrl.com
 cdns.lodeo.io
 cdnservr.com
@@ -3915,6 +3920,7 @@ cleafs.com
 cleananalytics.com
 clear-request.com
 clearac.com
+clearonclick.com
 clearviewstats.com
 cledghtdrjtb.com
 cleen.ru
@@ -5158,6 +5164,7 @@ dmwubqhtuvls.com
 dmyypseympjf.com
 dnbizcdn.com
 dndd.ru
+dneczsx.com
 dnn506yrbagrg.cloudfront.net
 dnoucjqzsasm.com
 dnovaku.ru
@@ -6007,6 +6014,7 @@ fb-plus.com
 fb0c32d2f28c.com
 fbb8a7d231b1867a.com
 fbbjlubvwmwd.com
+fbcdn2.com
 fbcjk.com
 fbfd396918c60838.com
 fbgdc.com
@@ -10318,6 +10326,7 @@ nostushi.ru
 not-only.info
 noteframe4o.tk
 nothering.com
+notify-bugs-fra1.rtl.de
 notifyvisitors.com
 nova-click.ru
 novanet.vn
@@ -11839,6 +11848,7 @@ qfmbgvgvauvt.com
 qfmcpclzunze.com
 qfrhhvbfofbt.com
 qfrpehkvqtyj.com
+qftdsg.com
 qgraprebabxo.com
 qgss8.com
 qhiip.com
@@ -12235,6 +12245,7 @@ repaynik.com
 repdata.usatoday.com
 repefwairfkx.com
 replacescript.in
+replainy.co
 replase.cf
 replase.ga
 replase.ml
@@ -13377,6 +13388,8 @@ ssl4anyone4.com
 ssl4anyone5.com
 ssl4me.cf
 ssl4stats.de
+ssl4us.cf
+ssl4us.gq
 sslboost.com
 sslcheckerapi.com
 ssloemwiszaz.com
@@ -14364,6 +14377,7 @@ tpbid.com
 tpc.googlesyndication.com
 tpfnibqjrpcj.com
 tpjz.tmuurnthtf.xyz
+tpmedia-reactads.com
 tpnads.com
 tpp1ede2.accountant
 tptrk.ru
@@ -14987,6 +15001,7 @@ upsight-api.com
 upsight.com
 upstats.ru
 uptime.monitorus.ru
+uptimecdn.com
 uptimeviewer.com
 uptracs.com
 upxip.xyz
