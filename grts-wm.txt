@@ -1,0 +1,21 @@
+HTTP/2 200 
+date: Sat, 16 Dec 2017 11:14:07 GMT
+server: GitHub.com
+content-type: text/plain; charset=utf-8
+strict-transport-security: max-age=31557600
+last-modified: Sat, 16 Dec 2017 04:17:50 GMT
+access-control-allow-origin: *
+expires: Sat, 16 Dec 2017 11:24:06 GMT
+cache-control: max-age=600
+x-github-request-id: 0EE4:28EC:333777:4D5AA6:5A34FFFC
+accept-ranges: bytes
+via: 1.1 varnish
+age: 0
+x-served-by: cache-lcy19227-LCY
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1513422847.940983,VS0,VE77
+vary: Accept-Encoding
+x-fastly-request-id: f40538cdd0b887254c0b75d697ec97e238878038
+content-length: 970
+
